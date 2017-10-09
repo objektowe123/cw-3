@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1507547151 source:d:\przemek d\cw-3\cw-3\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<stdexcept>
+	<string>
+
